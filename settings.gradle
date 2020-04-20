@@ -1,0 +1,2 @@
+rootProject.name='Twinker Movie'
+include ':app'

@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Twinker Movie</string>
+    <string name="agriement">By agreeing to the processing of your data, you agree to abide by the
+        rules of confidentiality and all other rules.This application will select the country
+        according to your wishes, with which you can choose the country to visit.</string>
+    <string name="checkboxAgreeLogin">I agree</string>
+    <string name="enterLoginButton">Enter</string>
+    <string name="ToastNotAgree">You did not agree</string>
+    <string name="Hello_Text">Hi, you can choose country below:</string>
+    <string name="weather_quest">What season do you like more?</string>
+    <string name="prefer">Do you prefer cities or you like to be in nature?</string>
+    <string name="cities">Cities</string>
+    <string name="nature">Nature</string>
+    <string name="choose_the_city_below">Choose the city below:</string>
+    <string name="any_additions">Any additions?</string>
+    <string name="car_sharing">Car Sharing</string>
+    <string name="taxi_servise">Taxi servise</string>
+    <string name="airport_metting">Airport Metting</string>
+    <string name="next">Next</string>
+    <string name="choose_date">Choose date:</string>
+
+    <!--    arrays-->
+    <string-array name="seasons_name">
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Autumn</item>
+    </string-array>
+
+    <string-array name="arrayCities">
+        <item>New-York, USA</item>
+        <item>Barcelona, Spain</item>
+        <item>Milano, Italy</item>
+        <item>Hong Kong, China</item>
+        <item>Tel-Aviv, Israel</item>
+    </string-array>
+
+    <string-array name="arrayNature">
+        <item>Preikestolen, Norway</item>
+        <item>Northern Lights, Northern Scandinavia</item>
+        <item>Waitomo Glowworm Caves, New Zealand</item>
+        <item>Banff National Park, Canada</item>
+        <item>Perito Moreno Glacier, Argentina</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
